@@ -1,0 +1,26 @@
+.App {
+  font-family: "Lato", sans-serif !important;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.xlabel {
+  font-size: 26px;
+}
+
+.xtick {
+  font-family: "Lato", sans-serif !important;
+}
+.label {
+  font-weight: 600;
+  color: #1c263a;
+  font-size: 14px;
+  font-family: "Lato", sans-serif !important;
+}
+
+.sublabel {
+  color: #666;
+  font-size: 12px;
+  font-family: "Lato", sans-serif !important;
+  margin-top: -10px;
+}
